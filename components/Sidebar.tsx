@@ -1,5 +1,5 @@
 const contactDetails = [
-  { label: 'Contact Name', value: 'Matthew Stern' },
+  { label: 'Contact Name', value: 'George Bluefin' },
   { label: 'Landline', value: '020 3695 3837' },
   { label: 'Mobile', value: '+44 2045 786013' },
   { label: 'Email', value: 'admin@cncintel.com' },

@@ -1,5 +1,5 @@
 const details = [
-  { label: 'Name', value: 'Matthew Stern' },
+  { label: 'Name', value: 'George Bluefin' },
   { label: 'Join Date', value: 'November 2024' },
   { label: 'Membership Number', value: 'F2265' },
   { label: 'Website', value: 'cncintel.com' },
