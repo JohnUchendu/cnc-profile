@@ -1,4 +1,3 @@
-import styles from '../app/globals.css'
 
 export default function Nav() {
   return (
