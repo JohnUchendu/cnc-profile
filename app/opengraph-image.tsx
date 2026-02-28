@@ -47,7 +47,7 @@ export default async function Image() {
             display: 'flex',
           }}
         >
-          CNC Intelligence LTD
+          Norwyn Solution LTD
         </div>
 
         {/* Member ID badge */}
@@ -70,7 +70,7 @@ export default async function Image() {
               display: 'flex',
             }}
           >
-            Member F2265
+            Member F2065
           </div>
         </div>
 
