@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   metadataBase: new URL(
-    process.env.NEXT_PUBLIC_BASE_URL ?? 'https://norwynsolution.com'
+    process.env.NEXT_PUBLIC_BASE_URL ?? 'https://tlneabi.org.uk'
   ),
   title: 'Norwyn Solution LTD (F2065) | The Association of British Investigators',
   description:
