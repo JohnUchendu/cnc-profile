@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: 'Norwyn Solution LTD (F2065) | ABI Verified Member',
     description:
       'Verified ABI member offering fraud investigations, asset tracing, specialist & forensic services, tracing & status reports, undercover investigations, and brand protection.',
-    url: process.env.NEXT_PUBLIC_BASE_URL ?? 'https://norwynsolution.com',
+    url: process.env.NEXT_PUBLIC_BASE_URL ?? 'https://tlneabi.org.uk',
     siteName: 'The Association of British Investigators',
     locale: 'en_GB',
     type: 'profile',
