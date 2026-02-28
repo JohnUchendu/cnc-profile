@@ -16,14 +16,11 @@ export default function MembershipCard() {
 
       <div className="membershipInfo">
         <p>ABI Member Since</p>
-        <h3>November 2024</h3>
+      
         <span>Full Membership — Corporate &amp; Forensic Services</span>
       </div>
 
-      <div className="membershipBadge">
-        <div className="badgeNum">F2265</div>
-        <div className="badgeLabel">Membership No.</div>
-      </div>
+     
     </div>
   )
 }

@@ -7,11 +7,11 @@ export default function Hero() {
       <div className="breadcrumb">
         <span>Home</span> ›{' '}
         <span>Find an Investigator</span> ›{' '}
-        <span>CNC Intelligence LTD</span>
+        <span>Norwyn Solution Ltd</span>
       </div>
       <h1 className="heroH1">
-        CNC Intelligence LTD{' '}
-        <span className="memberId">F2265</span>
+        Norwyn Solution Ltd{' '}
+        <span className="">(F2065)</span>
       </h1>
     </div>
   )

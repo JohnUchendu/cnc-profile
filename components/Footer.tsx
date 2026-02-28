@@ -32,14 +32,8 @@ export default function Footer() {
               <span className="footerContactIcon">✉</span>
               Secretariat@theABI.org.uk
             </div>
-            <div className="footerContactItem">
-              <span className="footerContactIcon">☎</span>
-              020 8191 7500
-            </div>
-            <div className="footerContactItem">
-              <span className="footerContactIcon">☎</span>
-              +44 20 8191 7500
-            </div>
+            
+            
           </div>
 
           <div>

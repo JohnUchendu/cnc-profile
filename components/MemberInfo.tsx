@@ -1,8 +1,9 @@
 const details = [
   { label: 'Name', value: 'George Bluefin' },
   { label: 'Join Date', value: 'November 2024' },
-  { label: 'Membership Number', value: 'F2265' },
-  { label: 'Website', value: 'cncintel.com' },
+  { label: 'Membership Number', value: 'F2065' },
+  { label: 'Website', value: 'norwynsolution.com' },
+  { label: 'email', value: 'help@norwynsolution.com' },
 ]
 
 export default function MemberInfo() {
@@ -19,8 +20,7 @@ export default function MemberInfo() {
         <div className="detailItem addressBlock">
           <div className="detailLabel">Address</div>
           <div className="detailValue">
-            128 City Road, London, EC1V 2NX<br />
-            United Kingdom
+           20 Farrington St, London EC4A4AB, UK
           </div>
         </div>
       </div>

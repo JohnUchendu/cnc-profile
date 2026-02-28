@@ -7,7 +7,7 @@ export default function MapCard() {
         allowFullScreen
         loading="lazy"
         referrerPolicy="no-referrer-when-downgrade"
-        title="128 City Road, London, EC1V 2NX"
+        title="20 Farrington St, London EC4A4AB, UK"
       />
     </div>
   )

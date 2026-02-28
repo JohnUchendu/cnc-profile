@@ -1,9 +1,6 @@
 const contactDetails = [
-  { label: 'Contact Name', value: 'George Bluefin' },
-  { label: 'Landline', value: '020 3695 3837' },
-  { label: 'Mobile', value: '+44 2045 786013' },
-  { label: 'Email', value: 'admin@cncintel.com' },
-  { label: 'Website', value: 'cncintel.com' },
+  { label: '', value: '' },
+
 ]
 
 export default function Sidebar() {
@@ -16,8 +13,8 @@ export default function Sidebar() {
         />
       </div>
 
-      <div className="contactCard">
-        <h3>Contact Details</h3>
+      <div className="">
+        
         {contactDetails.map(({ label, value }) => (
           <div key={label} className="contactRow">
             <div className="contactLabel">{label}</div>
