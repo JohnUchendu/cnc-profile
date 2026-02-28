@@ -26,15 +26,7 @@ export default function Footer() {
             </p>
           </div>
 
-          <div>
-            <h4 className="footerSectionTitle">Contact Us</h4>
-            <div className="footerContactItem">
-              <span className="footerContactIcon">✉</span>
-              Secretariat@theABI.org.uk
-            </div>
-            
-            
-          </div>
+          
 
           <div>
             <h4 className="footerSectionTitle">How to Find Us</h4>

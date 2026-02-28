@@ -165,13 +165,13 @@ html, body {
 }
 
 .logoCard {
-  background: #000000;
+  
   border-radius: 16px;
   padding: 32px;
   display: flex;
   align-items: center;
   justify-content: center;
-  box-shadow: 0 4px 24px rgba(13,31,60,0.09);
+  
 }
 
 .logoCard img {

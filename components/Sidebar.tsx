@@ -1,3 +1,5 @@
+import Image from "next/image"
+
 const contactDetails = [
   { label: '', value: '' },
 
@@ -7,9 +9,11 @@ export default function Sidebar() {
   return (
     <div className="sidebar">
       <div className="logoCard">
-        <img
-          src="/logo.png"
-          alt="CNC Intelligence LTD logo"
+        <Image
+          src="/norwyn.png"
+          alt="Norwyn Solution LTD logo"
+          width={100}
+          height={100}
         />
       </div>
 
