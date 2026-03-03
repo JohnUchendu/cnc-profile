@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <>
       <Nav />
-      {/* <Hero />
+      <Hero />
 
       <main className="main">
         <div className="profileGrid">
@@ -24,7 +24,7 @@ export default function Home() {
             <MapCard />
           </div>
         </div>
-      </main> */}
+      </main>
 
       <Footer />
     </>

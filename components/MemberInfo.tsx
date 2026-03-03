@@ -1,7 +1,7 @@
 const details = [
   { label: 'Name', value: 'George Bluefin' },
-  { label: 'Join Date', value: 'November 2024' },
-  { label: 'Membership Number', value: 'F2065' },
+  { label: 'Join Date', value: 'February 2024' },
+  { label: 'Membership Number', value: 'F2418' },
   { label: 'Website', value: 'norwynsolution.com' },
   { label: 'email', value: 'help@norwynsolution.com' },
 ]
