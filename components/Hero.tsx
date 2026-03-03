@@ -11,7 +11,7 @@ export default function Hero() {
       </div>
       <h1 className="heroH1">
         Norwyn Solution Ltd{' '}
-        <span className="">(F2065)</span>
+        <span className="">(F2418)</span>
       </h1>
     </div>
   )
